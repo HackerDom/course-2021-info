@@ -15,7 +15,7 @@
 * [Стеганография](2.%20Стеганография/README.md)
 * [Криптография](3.%20Криптография/README.md) 
 * [Сети](4.%20Сети/README.md)
-* [Веб 1] (https://github.com/HackerDom/course-2021-info/blob/main/5.%20%D0%92%D0%B5%D0%B11/web.md)
+* [Веб 1](https://github.com/HackerDom/course-2021-info/blob/main/5.%20%D0%92%D0%B5%D0%B11/web.md)
 
 ## Описание
 ### Практические занятия
